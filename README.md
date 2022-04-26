@@ -12,7 +12,7 @@
     
 ## 2. 准备
     hudi-flink-bundle_2.12-0.10.0-SNAPSHOT.jar、flink-shaded-hadoop-2-uber-2.8.3-10.0.jar拷贝到 $FLINK_HOME/lib目录下
-    hudi-hadoop-mr-bundle-0.9.0-SNAPSHOT.jar拷贝到 $HIVE_HOME/auxlib/目录下
+    hudi-hadoop-mr-bundle-0.10.0-SNAPSHOT.jar拷贝到 $HIVE_HOME/auxlib/目录下
     **启动Flink:**
        start-cluster.sh
     ** 启动hive:**
